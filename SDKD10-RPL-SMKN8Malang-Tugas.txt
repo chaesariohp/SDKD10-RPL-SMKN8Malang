@@ -3,3 +3,6 @@ Tugas 1
 - Siswa membuat repository
 - siswa melakukan commit pertama
 (SS/ScreenShot semua langkah yang dilakukan dan membuat laporan di GC)
+Tugas 2
+- siswa melakukan commit selanjutnya
+- siswa melakukan edit
