@@ -1,0 +1,5 @@
+Tugas 1
+- Siswa membuat akun Github
+- Siswa membuat repository
+- siswa melakukan commit pertama
+(SS/ScreenShot semua langkah yang dilakukan dan membuat laporan di GC)
